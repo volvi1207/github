@@ -47,3 +47,4 @@
 >Git branch -d <название ветки> – удалить ветку
 
 git log --graph- показ древа
+git log --oneline- коротенький журнал
